@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/discount_bazar/static/css/main.6cf08a99.css",
+    "main.js": "/discount_bazar/static/js/main.3b32082f.js",
+    "static/media/payment.png": "/discount_bazar/static/media/payment.5a9148c4e031f1698133.png",
+    "index.html": "/discount_bazar/index.html",
+    "main.6cf08a99.css.map": "/discount_bazar/static/css/main.6cf08a99.css.map",
+    "main.3b32082f.js.map": "/discount_bazar/static/js/main.3b32082f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cf08a99.css",
+    "static/js/main.3b32082f.js"
+  ]
+}
